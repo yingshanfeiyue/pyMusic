@@ -1,0 +1,2 @@
+# pyMusic
+python study
